@@ -7,6 +7,6 @@ The code will be released soon.
 
 # Video demo
 
-[![](https://github.com/roylin1229/IIB_descriptor/blob/main/img.png)](https://drive.google.com/file/d/1v5MVggT3BMPrBdLPKnxQozE8mjIBfmGm/view?usp=sharing)  
+[![](https://github.com/roylin1229/E2LSD/blob/main/loc_demo.gif)](https://drive.google.com/file/d/1v5MVggT3BMPrBdLPKnxQozE8mjIBfmGm/view?usp=sharing)  
 
 Google Drive: https://drive.google.com/file/d/1v5MVggT3BMPrBdLPKnxQozE8mjIBfmGm/view?usp=sharing  
