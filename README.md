@@ -25,21 +25,21 @@ Google Drive: https://drive.google.com/file/d/1FUVsifDUfc6vJI4eiS7DuYwaoYxbpdV5/
 ## Citation
 
 @ARTICLE{E2LSD,  
-  author={Lin, Xinyu and Zhou, Yingjie and Liu, Yipeng and Zhu, Ce},
-  journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Effective and Efficient Line Segment Detection for Visual Measurement Guided by Level Lines}, 
-  year={2023},
-  volume={72},
-  number={},
-  pages={1-12},
-  doi={10.1109/TIM.2023.3328094}}
-
-@INPROCEEDINGS{GEDRLSD,
-  author={Lin, Xinyu and Zhou, Yingjie and Liu, Yipeng and Zhu, Ce},
-  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={Level-Line Guided Edge Drawing for Robust Line Segment Detection}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-5},
-  doi={10.1109/ICASSP49357.2023.10096818}}
+  author={Lin, Xinyu and Zhou, Yingjie and Liu, Yipeng and Zhu, Ce},  
+  journal={IEEE Transactions on Instrumentation and Measurement},   
+  title={Effective and Efficient Line Segment Detection for Visual Measurement Guided by Level Lines},   
+  year={2023},  
+  volume={72},  
+  number={},  
+  pages={1-12},  
+  doi={10.1109/TIM.2023.3328094}}  
+  
+@INPROCEEDINGS{GEDRLSD,  
+  author={Lin, Xinyu and Zhou, Yingjie and Liu, Yipeng and Zhu, Ce},  
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},   
+  title={Level-Line Guided Edge Drawing for Robust Line Segment Detection},   
+  year={2023},  
+  volume={},  
+  number={},  
+  pages={1-5},  
+  doi={10.1109/ICASSP49357.2023.10096818}}  
