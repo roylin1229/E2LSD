@@ -2,7 +2,16 @@
 
 **Effective and Efficient Line Segment Detection for Visual Measurement Guided by Level Lines**
 
-Email: roylin_cv@163.com
+## Getting Started
+
+To run the example, follow these steps:
+
+1. Install [mexopencv](https://kyamagu.github.io/mexopencv/) to obtain the "GaussianBlur" function.
+2. Run the "E2LSD_demo.m" script.
+
+## Contact
+
+If you have any questions or need further assistance, feel free to contact us at: roylin_cv@163.com
 
 ## Level Line Guided Edge Drawing
 [![](https://github.com/roylin1229/E2LSD/blob/main/level_line_guided_edge_drawing.gif)](https://drive.google.com/file/d/1cl5ByQVWHgpcfRRC5zCfc-aoAacj3-Y8/view?usp=share_link)  
